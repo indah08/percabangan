@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main(){
+int x, y
+int penjumlahan;
+cout<<"\t\selamat datang"<<endl;
+cout<<"\nmasukan nilai X "<<endl;
+cin>>x;
+cout<<"\nmasukan nilai Y"<<endl
+cin>>y;
+
+penjumlahan= x+y;
+cout<<"hasil="<<penjumlahan<<endl;
+
+if(penjumlahan>0){
+cout<<"nilai positif"<<endl
+}else if(penjumlahan<0){
+cout<<"nilai egatif"<<endl;
+}
+cout<<"program ini adalah program berhitung"<<endl;
+cout<<"terimakasih sampai jumpa"<<endl;
+return 0;
+}
